@@ -79,16 +79,9 @@
     "discription": "lodfnfvkndnvdnfdnv dlpwedwwpofpwe pekdflnvnd djvhidvhdibvd vhdbvdvbjhdv owfheiufiewfbibv ",
     "category": "women"
   },
+ 
   {
-    "id": 8,
-    "image": "/images/pants-4-w.jpg",
-    "brand": "xyz",
-    "price": 20,
-    "discription": "lodfnfvkndnvdnfdnv dlpwedwwpofpwe pekdflnvnd djvhidvhdibvd vhdbvdvbjhdv owfheiufiewfbibv ",
-    "category": "women"
-  },
-  {
-    "id": 9,
+    "id": 10,
     "image": "/images/pants-5-w.jpg",
     "brand": "xyz",
     "price": 20,
@@ -96,7 +89,7 @@
     "category": "women"
   },
   {
-    "id": 10,
+    "id": 24,
     "image": "/images/pants-6-w.jpg",
     "brand": "xyz",
     "price": 20,
@@ -181,7 +174,7 @@
     "brand": "xyz",
     "price": 20,
     "discription": "lodfnfvkndnvdnfdnv dlpwedwwpofpwe pekdflnvnd djvhidvhdibvd vhdbvdvbjhdv owfheiufiewfbibv ",
-    "category": "women"
+    "category": "men"
   },
   {
     "id": 21,

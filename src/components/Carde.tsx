@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
 import {product} from "../interfaces/product"
 import { useNavigate } from 'react-router-dom';
-import AttachMoneyIcon from '@mui/icons-material/AttachMoney';
+
 
 const Carde: React.FC<product> = ({image , brand , price ,discription,id }) => {
   const navigate = useNavigate();
@@ -24,7 +24,7 @@ const Carde: React.FC<product> = ({image , brand , price ,discription,id }) => {
             {brand}
           </Typography>
           <Typography gutterBottom variant="h5" component="div">
-            {price}<AttachMoneyIcon/> 
+            ${price} 
           </Typography>
           <Typography variant="body2" sx={{ color: 'text.secondary' }}>
            {discription}
